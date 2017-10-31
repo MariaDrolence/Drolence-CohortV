@@ -1,0 +1,41 @@
+.signupform{
+
+padding: 20px;
+
+
+}
+.header{
+
+
+}
+input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+input[type=submit] {
+    align:center
+   color:#808080;
+}
+input[type=email]{
+width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+
+}
+.addfooter{
+Background-color:#505050;
+width:100%;
+Height:50px;
+
+
+}
